@@ -1,157 +1,143 @@
-# 👋 Rinku Puri
-
 <div align="center">
+
+# RINKU PURI
 
 ### Full-Stack Engineer · SaaS Builder · Business Systems Developer
 
-**I turn complex business workflows into simple, scalable software.**
+**I build software that replaces messy business processes.**
 
-<p>
-  SaaS &nbsp;•&nbsp; ERP &nbsp;•&nbsp; CRM &nbsp;•&nbsp; Automation &nbsp;•&nbsp; Integrations &nbsp;•&nbsp; Analytics
-</p>
+From ERP and CRM platforms to automation, integrations, analytics and payments —
+I turn real-world workflows into scalable production systems.
 
-<p>
-  <a href="https://github.com/rinkupuri">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://github.com/rinkupuri/school-erp-nextjs">
-    <img src="https://img.shields.io/badge/Featured-School%20ERP-2f81f7?style=for-the-badge&logo=github&logoColor=white" alt="School ERP"/>
-  </a>
-  <a href="https://github.com/rinkupuri/Tally-Backup">
-    <img src="https://img.shields.io/badge/Featured-Tally%20Control-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Tally Control"/>
-  </a>
-</p>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=Building+SaaS+%26+ERP+Systems;Designing+Business+Automation;Engineering+Scalable+APIs;Connecting+Systems+That+Don't+Talk+To+Each+Other;Turning+Ideas+Into+Production+Software" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rinkupuri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](#)
 
 </div>
 
 ---
 
-## whoami
+## `> whoami`
 
-I’m a full-stack engineer who enjoys building **real products for real operational problems**.
-
-My work sits at the intersection of:
-
-- product development
-- backend engineering
-- database design
-- business logic
-- automation
-- third-party integrations
-- reporting and analytics
-- production reliability
-
-I’m most interested in systems where software has to deal with **real users, permissions, payments, data synchronization, background jobs, auditability, and failure cases** — not just the happy path.
-
-~~~ts
+```ts
 const rinku = {
-  focus: [
+  role: "Full-Stack Engineer",
+
+  build: [
     "SaaS Platforms",
-    "ERP & CRM Systems",
-    "Business Automation",
-    "Data & Reporting Platforms",
-    "Integrations",
-    "Production APIs"
+    "ERP Systems",
+    "CRM & Sales Portals",
+    "Business Dashboards",
+    "E-commerce Systems",
+    "Workflow Automation",
+    "Third-party Integrations"
   ],
 
-  engineeringStyle: [
-    "Solve the workflow first",
-    "Keep the architecture understandable",
-    "Automate repetitive work",
-    "Design for failure",
-    "Ship maintainable software"
-  ],
+  mindset:
+    "Solve the business problem first. Then engineer the system."
 
   currentlyExploring: [
     "AI Engineering",
     "System Design",
-    "Scalable Architectures",
+    "Scalable Architecture",
     "Intelligent Business Automation"
   ]
 };
-~~~
+```
 
 ---
 
-## ⚡ What I Build
+## ⚡ What I Actually Build
+
+I enjoy working on software where **frontend, backend, database, integrations and business logic all have to work together**.
 
 ### 🏢 Business Systems
-ERP platforms, CRM systems, admin panels, task management, role/permission systems, operational portals.
+
+ERP • CRM • Admin Panels • Operations Portals • Task Management • Role & Permission Systems
 
 ### 🔄 Automation
-Google Sheets, Google Apps Script, scheduled workflows, data synchronization, reporting automation and process digitization.
 
-### 🔌 Integrations
-Shopify, Tally, Google APIs, Razorpay, PhonePe, Paytm, Meta, Google Ads and custom REST integrations.
+Google Sheets • Apps Script • Scheduled Jobs • Workflow Engines • Data Synchronization • Reporting
 
 ### 💳 SaaS Infrastructure
-Subscriptions, billing, payment workflows, webhooks, notifications, multi-tenant architecture and tenant-scoped configuration.
 
-### 📊 Analytics
-Sales dashboards, financial reports, KPI systems, operational dashboards, lead pipelines and business intelligence views.
+Subscriptions • Billing • Payment Workflows • Webhooks • Notifications • Multi-tenant Architecture
+
+### 🔌 Integrations
+
+Shopify • Tally • Google APIs • Razorpay • PhonePe • Paytm • Meta • Google Ads • Custom APIs
+
+### 📊 Data & Analytics
+
+Operational Dashboards • Sales Analytics • Financial Reports • KPI Systems • Data Pipelines
 
 ---
 
-# 🧠 How I Think About Software
+# 🧠 My Engineering Focus
 
-~~~text
+```text
 Business Problem
-       ↓
-Understand the Workflow
-       ↓
-Design the Domain
-       ↓
-Model the Data
-       ↓
-Build the API
-       ↓
-Build the UI
-       ↓
-Connect External Systems
-       ↓
-Automate Repetitive Work
-       ↓
-Test + Secure + Observe
-       ↓
-Ship
-~~~
+      ↓
+Domain & Workflow Analysis
+      ↓
+System Architecture
+      ↓
+Database Design
+      ↓
+API & Business Logic
+      ↓
+Frontend Experience
+      ↓
+Integrations & Automation
+      ↓
+Testing / Security
+      ↓
+Deployment
+      ↓
+Production
+```
 
-My goal is not simply to add features.
+I don't like building isolated demos.
 
-**My goal is to make the underlying process easier, safer and more reliable.**
+I prefer building systems that have to deal with:
+
+* real users
+* permissions
+* payments
+* integrations
+* data consistency
+* background jobs
+* audit trails
+* failures and retries
+* production edge cases
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Engineering
 
 ## 🏫 School ERP
 
-A multi-school management platform with tenant isolation and separate Super Admin, Admin, Staff and Parent workflows.
+A multi-school management platform with isolated tenant data and role-based portals.
 
-**Core areas**
+**Built around:**
 
-Next.js · TypeScript · Prisma · MongoDB · Redux Toolkit · RTK Query
+`Next.js` · `TypeScript` · `Prisma` · `MongoDB` · `Redux Toolkit` · `RTK Query`
 
-**Highlights**
-
-- Multi-tenant school architecture
-- Student and admission management
-- Fee plans, allocations, payments and receipts
-- Role and capability based access
-- Parent and staff portals
-- School-scoped settings
-- Payment gateway integrations
-- Reports and audit logging
-
-[View repository →](https://github.com/rinkupuri/school-erp-nextjs)
+Includes school administration, students, admissions, fees, payments, receipts, reports, parent/staff portals, tenant isolation, storage, email and payment integrations.
 
 ---
 
-## 🔁 Tally Control
+## 🔁 Tally Synchronization Platform
 
-A synchronization platform connecting a local Tally environment to a web dashboard through a desktop agent.
+A system designed to connect **desktop Tally environments with a web-based reporting platform**.
 
-~~~text
+```text
 Tally
   ↓
 Go Desktop Agent
@@ -163,89 +149,43 @@ Next.js API
 MongoDB
   ↓
 Web Dashboard
-~~~
+```
 
-**Engineering focus**
+The project focuses on things that matter in synchronization systems:
 
-- Durable sync jobs
-- Renewable job leases
-- Transactional batch ingestion
-- Idempotent retry handling
-- Incremental upserts
-- Tombstone support
-- Authenticated batches
-- Reporting and company settings
-- Google Sheets delivery queue
+**leases · retries · idempotency · transactions · incremental upserts · tombstones · authenticated batches · durable jobs**
 
-[View repository →](https://github.com/rinkupuri/Tally-Backup)
+This is where application development starts turning into systems engineering.
 
 ---
 
-## 🧩 DigiCode SaaS Architecture
+## 📋 CRM & Task Management Platform
 
-A modern monorepo exploring scalable product architecture with separate applications and reusable libraries.
+A production-oriented business platform with:
 
-Nx · Next.js · React · NestJS · Prisma · MongoDB · Redux Toolkit
+**CRM workflows · task generation · role-based permissions · subscriptions · billing · notifications · cron jobs · analytics · audit logs**
 
-Includes shared libraries, API services, feature modules, unit testing and Playwright-based E2E testing.
-
-[View repository →](https://github.com/rinkupuri/DigiCode_Saas_App)
+Recent engineering work includes integrations for **Google Ads and Meta**, lead tagging/custom fields, payment workflows, notification systems, subscription management and automated task processing.
 
 ---
 
-## 🛒 E-commerce & Integrations
+## 🛰️ FSR / Field Visit Platform
 
-I have worked across e-commerce applications and integrations involving:
+A field-sales workflow platform connecting portal data, users, visit planning and reporting.
 
-Shopify · React · Next.js · Redux · REST APIs · Payments
+Designed around:
 
-This includes storefront work, product/catalog workflows, dashboards, Shopify integrations and custom business tooling.
+**scheduled synchronization · authenticated webhooks · idempotent submissions · role-based access · route planning · audit logging · private file uploads**
 
 ---
 
-# 🔐 Private Engineering Work
+## 📊 Business Intelligence & Operations Dashboards
 
-A significant part of my development work lives inside **private repositories and production systems**.
+I have built dashboards around real operational workflows rather than sample datasets.
 
-For transparency, the activity below is a **manually maintained snapshot**.
-It is intentionally hardcoded in this README — **nothing here is fetched from private repositories at runtime**.
+Examples include:
 
-| Date | Engineering Work |
-|---|---|
-| **Sep 2026** | Simplified student daily forms into a single-page class workflow |
-| **Sep 2026** | Added attendance visualization with a color-coded monthly calendar |
-| **Sep 2026** | Improved school selection and student workflow UX |
-| **Jul 2026** | Improved payment error handling and pending-fee reporting |
-| **Jul 2026** | Fixed payment status synchronization for a payment gateway workflow |
-| **Apr 2026** | Improved monorepo CI dependency ordering for shared services |
-| **Feb 2026** | Added CRM integrations for Google Ads and Meta |
-| **Feb 2026** | Added lead tags, custom fields and bulk action logging |
-| **Jan 2026** | Added automated report export with filters and date ranges |
-| **Dec 2025** | Built notification APIs and transactional email templates |
-| **Dec 2025** | Implemented subscription, billing and payment verification flows |
-| **Dec 2025** | Added cron logging, filtering, pagination and cleanup workflows |
-| **Nov 2025** | Added authenticated image upload/delete workflows with object storage |
-| **Oct 2025** | Implemented user management, permission checks and deployment automation |
-
-### What that private work represents
-
-~~~text
-CRM
-+ Billing
-+ Payments
-+ Permissions
-+ Notifications
-+ Cron Jobs
-+ Data Sync
-+ Reporting
-+ File Storage
-+ Deployment
-+ Business Workflows
-~~~
-
-Some systems cannot be published because they contain private business logic, internal data or production integrations.
-
-**The code may be private. The engineering experience is not.**
+**sales analytics · gross profit · FIFO reporting · lead pipelines · portal KPIs · follow-ups · operational data quality · task dashboards**
 
 ---
 
@@ -253,102 +193,140 @@ Some systems cannot be published because they contain private business logic, in
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square\&logo=redux\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
 
 ### Data
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma\&logoColor=white)
 
-### Integrations & Platforms
+### Automation & Integrations
 
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
-![Google](https://img.shields.io/badge/Google%20APIs-4285F4?style=flat-square&logo=google&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Google](https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square\&logo=google\&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square\&logo=shopify\&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
 
-### Testing & Quality
+### Engineering
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-
----
-
-# 📚 Selected Public Repositories
-
-| Project | Focus |
-|---|---|
-| [School ERP](https://github.com/rinkupuri/school-erp-nextjs) | Multi-tenant ERP, fees, payments, portals |
-| [Tally Control](https://github.com/rinkupuri/Tally-Backup) | Tally synchronization and reporting |
-| [DigiCode SaaS](https://github.com/rinkupuri/DigiCode_Saas_App) | Nx monorepo, reusable architecture |
-| [FSR Portal](https://github.com/rinkupuri/FSR-Portal) | Field visit planning and automation |
-| [Global Portals Dashboard](https://github.com/rinkupuri/Portals-Dashboard) | Cross-portal KPI and operational analytics |
-| [CRM / Sales Portal](https://github.com/rinkupuri/NBD-Portal) | Leads, pipeline and follow-up workflows |
-| [GP Dashboard](https://github.com/rinkupuri/GP-Dashboard) | Sales, gross profit and FIFO reporting |
-| [WhatsApp API](https://github.com/rinkupuri/whatsapp-api) | Full-stack API and communication platform |
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square\&logo=playwright\&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square\&logo=vitest\&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square\&logo=jest\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 
 ---
 
-# 🧩 Engineering Principles
+# 🔐 The Part You Don't See
 
-| Principle | How I approach it |
-|---|---|
-| **Architecture** | Prefer clear boundaries over clever shortcuts |
-| **Reliability** | Design retries, validation and failure handling early |
-| **Automation** | Remove repetitive manual workflows |
-| **Security** | Treat permissions, credentials and data boundaries seriously |
-| **Maintainability** | Build systems that another developer can understand |
-| **Business Value** | Features should improve a real workflow |
+A large part of my engineering work lives inside **private repositories and production systems**.
+
+That work includes:
+
+```text
+Multi-tenant applications
+        +
+CRM & lead systems
+        +
+Subscription & billing infrastructure
+        +
+Payment webhooks
+        +
+Role-based permissions
+        +
+Automated task generation
+        +
+Cron processing & logs
+        +
+Google Ads / Meta integrations
+        +
+ERP workflows
+        +
+Data synchronization
+        +
+Operational dashboards
+```
+
+Not everything I build can be public.
+
+The architecture, engineering decisions and problem-solving experience still count.
 
 ---
 
-# 📈 GitHub Snapshot
+# 🧩 Things I Care About
 
-> Contribution numbers change over time. The private-work section above is intentionally **static** and is not a live data feed.
-
-| Metric | Snapshot |
-|---|---|
-| **GitHub contributions** | **721** |
-| **Contribution history** | **Apr 22, 2021 → Present** |
-| **Longest recorded streak** | **9 days** |
-| **Current streak at snapshot** | **0 days** |
-| **Private engineering activity** | **Manually curated** |
-
----
-
-# 🌱 Currently Exploring
-
-- AI engineering and practical AI integrations
-- System design and distributed workflows
-- Better architecture for SaaS products
-- Intelligent business automation
-- Production observability and reliability
+```text
+Architecture       >   Clever hacks
+Reliability        >   Happy-path demos
+Automation         >   Repetitive work
+Observability      >   Blind debugging
+Security           >   Convenience
+Maintainability    >   Short-term speed
+Business value     >   Feature count
+```
 
 ---
 
-# 💭 One Line I Believe In
+# 📈 GitHub Activity
 
-> **Don’t build software just because it can be built. Build it because the process deserves to be better.**
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rinkupuri&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rinkupuri&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinkupuri&layout=compact&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🐍 Contribution Trail
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+</div>
+
+---
+
+# 🌱 Currently
+
+```text
+→ Deepening system design
+→ Exploring AI engineering
+→ Building smarter business automation
+→ Improving architecture & reliability
+→ Turning internal tools into reusable products
+```
+
+---
+
+# 💭 A Principle I Follow
+
+> **The best software is not the software with the most features.
+> It's the software that makes a complicated process feel simple.**
 
 ---
 
@@ -356,6 +334,8 @@ Some systems cannot be published because they contain private business logic, in
 
 ### BUILD → AUTOMATE → SCALE → REPEAT
 
-**Thanks for visiting my profile.**
+<br/>
+
+**Thanks for stopping by.**
 
 </div>
