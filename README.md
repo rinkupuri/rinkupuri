@@ -16,7 +16,7 @@ I turn real-world workflows into scalable production systems.
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rinkupuri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linked.in/in/rinkupuri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/rinkupuri)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://digicodesolutions.com)
 
 </div>
