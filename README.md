@@ -1,6 +1,6 @@
 <div align="center">
 
-# RINKU PURI
+# Rinku Puri
 
 ### Full-Stack Engineer · SaaS Builder · Business Systems Developer
 
